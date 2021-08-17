@@ -1,4 +1,4 @@
 # ZURI-RESPONSIVE-DESIGN-STARTER
 Responsive page
 
-LIVE HOSTING LINK: https://donpozzy.github.io/ZURI-RESPONSIVE-DESIGN-STARTER/
+LIVE HOSTING LINK: https://donpozzy.github.io/DESIGN-STARTER/
